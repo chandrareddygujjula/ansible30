@@ -1,0 +1,15 @@
+---
+- mystudents:
+  - name: chandu 
+    photo: 9999999999
+    address: 
+      doorno: 2
+      street: 10
+      pin: 522234
+
+  - name: suresh
+    photo: 8888888888
+    address: 
+       doorno: 2-106
+       street: near wines
+       pin: 522234  
